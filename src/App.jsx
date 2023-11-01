@@ -4,6 +4,7 @@ import Collector from "./Collector";
 function App() {
   return(
     <>
+    
       <Collector /> 
     </>
   ) 
